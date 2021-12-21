@@ -1,0 +1,29 @@
+body{
+	font-family: Trebuchet MS;
+}
+#wholeBlock{
+	background-color:aliceblue;
+	border-style: solid;
+	border-radius: 25px;
+	border-color: dodgerblue;
+	text-align: center;
+	margin: auto;
+	width: 250px;
+}
+input{
+	width: 90%;
+}
+select{
+	width: 90%;
+	text-align: center;
+}
+#button{
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 20px;
+	width: 90%;
+	height: 25px;
+}
+button:hover{
+	background-color: lightblue;
+}
